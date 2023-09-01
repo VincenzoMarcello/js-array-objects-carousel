@@ -1,0 +1,36 @@
+.wrapper {
+  height: 100vh;
+  background-color: rgb(3, 122, 213);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slider-container {
+  width: 50%;
+  height: 40%;
+
+  overflow: hidden;
+  box-shadow: 0 0 7px 1px #333;
+}
+
+.left {
+  width: 20%;
+  height: 70%;
+  position: relative;
+}
+
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.slide {
+  display: none;
+}
+
+.active {
+  display: block;
+}

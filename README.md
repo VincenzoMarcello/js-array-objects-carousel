@@ -34,5 +34,3 @@ Aggiungere funzionalità di autoplay: dopo un certo periodo di tempo (3 secondi)
 ### BONUS 3:
 
 Aggiungere bottoni di start/stop e di inversione del meccanismo di autoplay.
-
-## Svolgimento
